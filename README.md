@@ -1,4 +1,5 @@
-# Aniamte For Front End Developer
+# Animate For Front End Developer
+
 `Animate is very important topic in dveloping sectors`
 
 `courtesy` 
@@ -3516,4 +3517,45 @@ ANOTHER TYPE OF HTML
   animation-name: slideOutUp;
 }
 
+```
+
+---------
+
+#Advanced option
+
+
+* data-wow-duration: Change the animation duration
+* data-wow-delay: Delay before the animation starts
+* data-wow-offset: Distance to start the animation (related to the browser bottom)
+* data-wow-iteration: Number of times the animation is repeated
+
+
+#Customize settings
+
+`boxClass: Class name that reveals the hidden box when user scrolls.`
+
+`animateClass: Class name that triggers the CSS animations (’animated’ by default for the animate.css library)`
+
+`offset: Define the distance between the bottom of browser viewport and the top of hidden box.`
+`When the user scrolls and reach this distance the hidden box is revealed.`
+
+`mobile: Turn on/off WOW.js on mobile devices.`
+
+`live: consatantly check for new WOW elements on the page.`
+
+---
+
+`cuctomize js`
+
+```JS
+ wow = new WOW(
+                      {
+                      boxClass:     'wow',      // default
+                      animateClass: 'animated', // default
+                      offset:       0,          // default
+                      mobile:       true,       // default
+                      live:         true        // default
+                    }
+                    )
+                    wow.init();
 ```
