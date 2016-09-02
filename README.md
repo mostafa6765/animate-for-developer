@@ -8,6 +8,13 @@ Animate          | wow
 -----------------| -------------
 Daneden          | MATTHIEU AUSSAGUEL
 
+
+
+* [SIMPLE FULL CODE] (https://github.com/mostafa6765/animate-for-developer/blob/master/README.md#full-code-of-animate-your-site)
+* [ADVANCED WOW JS] (https://github.com/mostafa6765/animate-for-developer/blob/master/README.md#advanced-option)
+* [CUSTOMIZE SETTING WOW] (https://github.com/mostafa6765/animate-for-developer/blob/master/README.md#customize-settings)
+
+
 ---
  source code : [Animate.css] (https://github.com/daneden/animate.css/blob/master/animate.css)
  
